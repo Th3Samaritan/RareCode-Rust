@@ -460,7 +460,7 @@ Use `is_nan()` to check.
 
 ---
 
-# 39. Common Compiler Errors
+# 29. Common Compiler Errors
 
 Understanding these makes you fluent in Rust.
 
@@ -780,10 +780,6 @@ trait B: A {}
 struct Point { x: i32 }
 ```
 
-Auto-generates implementations.
-
----
 
 
 
-You completed full Rust foundations and intermediate concepts.
